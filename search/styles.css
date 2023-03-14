@@ -1,0 +1,106 @@
+#links{
+    text-align: right;
+    padding: 10px;
+    
+}
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+#google{
+    padding:10px;
+    font-size:40px;
+    text-align:center;
+}
+ g{
+    color:blue;
+}
+ o,e{ 
+    color:red;
+}
+
+o1{
+    color:rgba(229, 229, 23, 0.621);
+}
+l{
+    color:green;
+}
+.center {
+    align-content:center;
+    justify-content:center; 
+    align-self: center;
+    padding-left:520px;
+    margin: auto;
+   
+}
+
+#search{
+    margin-top:10px;
+    
+
+
+}
+
+#form {
+    border-radius: 25px;
+    border: 1px solid grey;
+}
+
+.advanced{
+    padding: 5px;
+    font-size: 25px;
+}
+
+#advanced{
+    color:red;
+    font-size: 25px;
+    padding: 20px;
+    border-bottom: 2px solid rgba(128,128,128,0.25);
+    
+}
+
+#adv{
+    font-size:25px;
+    padding:10px;
+    margin: 10px;
+}
+
+.adv_form{
+    margin-left: 2%;
+
+}
+
+#btn{
+    background-color: blue;
+    color:white;
+    text-align:center;
+    margin:10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.side{
+    padding: 5px;
+    margin: 5px;
+}
+
+#one, #two, #three, #four{
+    margin-left:5px;
+}
+
+#one input {
+    margin-left: 101px;
+}
+
+#three input {
+    margin-left: 72px;
+}
+
+#four input {
+    margin-left: 60px;
+}
